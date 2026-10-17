@@ -19,7 +19,7 @@
    ## Getting Started
 
    ```bash
-   git clone https://github.com/<username>/web3games.git
+   git clone https://github.com/yut6685/web3games.git
    cd web3games
    npm install
    cp .env.example .env   # fill in your RPC URL and deployer private key
